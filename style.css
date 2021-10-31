@@ -1,6 +1,5 @@
 *{
-  background-color: #444444;
-  color: #ffffff;
+  background-color: #def;
   font-family: serif;
   font-weight: 100;
   text-align: center;
@@ -17,7 +16,11 @@ textarea {
 
 span {
   font-family: monospace;
-  color: #ff88ff;
+  color: #f48;
   border: 1px solid #888888;
   font-size: 20px;
+}
+
+table {
+  margin:auto;
 }
