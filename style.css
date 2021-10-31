@@ -1,0 +1,23 @@
+*{
+  background-color: #444444;
+  color: #ffffff;
+  font-family: serif;
+  font-weight: 100;
+  text-align: center;
+}
+
+header {
+  text-align: center;
+  font-size: 40px;
+}
+
+textarea {
+  text-align: left;
+}
+
+span {
+  font-family: monospace;
+  color: #ff88ff;
+  border: 1px solid #888888;
+  font-size: 20px;
+}
