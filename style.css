@@ -24,3 +24,13 @@ span {
 table {
   margin:auto;
 }
+
+div.NewEvent {
+  margin: auto;
+  width: 500px;
+  display: flex;
+}
+
+div.NewEvent div{
+  border: 1px solid #888888;
+}
