@@ -25,12 +25,15 @@ table {
   margin:auto;
 }
 
-div.NewEvent {
+.NewEvent {
   margin: auto;
-  width: 500px;
   display: flex;
+  width: 100%;
+  max-width: 500px;
+  flex-wrap: wrap; 
 }
 
-div.NewEvent div{
+.NewEvent div{
+  margin: auto;
   border: 1px solid #888888;
 }
